@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 const SERVER_HOST = 'seni_oldiraman.aternos.me'
 const SERVER_PORT = 35104
 const BOT_USERNAME = 'AutoJoinBot'
-const VERSION = '1.21.11'
+const VERSION = '1.21.1'
 const RECONNECT_DELAY = 10000
 
 function randomDelay(min, max) {
